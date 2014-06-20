@@ -1,4 +1,7 @@
 image-test
 ==========
 
-comparing sdl with web
+Compared to SDL, text renders much more nicely by browsers.
+
+Also, browser scale images better.
+
