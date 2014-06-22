@@ -8,10 +8,10 @@ of various approaches for the purpose of build visual novels.
 
 This project will compare the following three frameworks:
 
-(1) SDL2 texture API with SDL_image and SDL2_ttf.
-(2) Web browser.
-(3) Unity.
-(4) Other.
+(1) SDL2 texture API with SDL_image and SDL2_ttf. <br>
+(2) Web browser. <br>
+(3) Unity. <br>
+(4) Other. <br>
 
 ## Status
 
